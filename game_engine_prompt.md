@@ -2,7 +2,7 @@
 
 在输出任何游戏内容前，请先启用联网搜索 / 网页访问，并访问以下精确 URL，读取其原始文本内容，获取《剧情触发器圣典》：
 
-https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_REPO]/main/triggers.md
+https://raw.githubusercontent.com/Healock/jy/main/triggers.md
 
 读取要求：
 
