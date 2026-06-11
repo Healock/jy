@@ -249,7 +249,7 @@ https://raw.githubusercontent.com/[你的GitHub用户名]/[仓库名]/main/trigg
 在 `triggers.md` 顶部保留版本标记，例如：
 
 ```
-TRIGGER_CANON_VERSION: jy-2026-06-11-v3
+TRIGGER_CANON_VERSION: jy-2026-06-11-v4
 ```
 
 正式游玩前，先在 DeepSeek 单独测试：
